@@ -14,6 +14,7 @@ function getNextFile() {
 				reject(error);
 			} else {
 				lines = stdout.split("\n");
+				console.log("\t(" + lines.length + ")");
 				if (lines.length >= 0) {
 					var line = lines[0];
 					var parts = line.split(" ");
