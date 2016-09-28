@@ -1,0 +1,23 @@
+{
+  "name": "bulk_gitter",
+  "version": "1.0.0",
+  "description": "Node.js script to add a directory of files one at a time to a git repo with a push inbetween.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrenhodg/bulk_gitter.git"
+  },
+  "keywords": [
+    "Bulk",
+    "git"
+  ],
+  "author": "Warren Hodgkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/warrenhodg/bulk_gitter/issues"
+  },
+  "homepage": "https://github.com/warrenhodg/bulk_gitter#readme"
+}
